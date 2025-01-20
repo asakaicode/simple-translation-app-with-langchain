@@ -1,1 +1,5 @@
+python-dotenv
+
 django==5.1.5
+mysqlclient==2.2.7
+ulid-py==1.1.0
